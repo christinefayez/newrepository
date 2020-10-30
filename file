@@ -8,3 +8,8 @@ git branch -M main
 git remote add origin https://github.com/christinefayez/newrepository.git
  git push -u origin main
 
+
+delete:
+git branch -d dev
+git branch -D test
+
