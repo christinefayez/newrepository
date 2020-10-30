@@ -1,0 +1,10 @@
+mkdir dir
+cd dir
+git init
+touch file 
+git add .
+git commit -m "create new file christine fayez"
+git branch -M main
+git remote add origin https://github.com/christinefayez/newrepository.git
+ git push -u origin main
+
